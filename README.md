@@ -1,4 +1,4 @@
-**Diese Repository dient ausschließlich Test- und Übungszwecken**
+**Diese Repository dient NICHT ausschließlich Test- und Übungszwecken**
 
 **Mitarbeiter:**
 *Bommbie*
